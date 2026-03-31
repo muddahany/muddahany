@@ -21,4 +21,4 @@ Most recent work: backend architecture for one of the UK's largest ticketing pla
 
 ### Connect
 
-[mscloudtech.io](https://mscloudtech.io) · [LinkedIn](https://linkedin.com/in/mohshehabeldin) · [Upwork ($100K+, Top Rated, 99% JSS)](https://www.upwork.com/freelancers/mohshehabeldin)
+[mscloudtech.io](https://mscloudtech.io) · [LinkedIn](https://linkedin.com/in/mohshehabeldin) · [Upwork ($100K+, Top Rated, 99% JSS)](https://www.upwork.com/freelancers/mohamedshehabeldin)
