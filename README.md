@@ -56,8 +56,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muddahany&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddahany&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muddahany&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
