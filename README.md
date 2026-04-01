@@ -53,14 +53,6 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muddahany&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
----
-
 <p>
   <a href="https://mscloudtech.io">mscloudtech.io</a> · <a href="https://linkedin.com/in/mohshehabeldin">LinkedIn</a>
 </p>
