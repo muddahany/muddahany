@@ -23,4 +23,4 @@ Most recent work: 100+ developer codebase at one of the UK's largest ticketing p
 
 ### Connect
 
-[mscloudtech.io](https://mscloudtech.io) · [LinkedIn](https://linkedin.com/in/mohshehabeldin) · [Upwork ($100K+, Top Rated, 99% JSS)](https://www.upwork.com/freelancers/mohamedshehabeldin)
+[mscloudtech.io](https://mscloudtech.io) · [LinkedIn](https://linkedin.com/in/mohshehabeldin)
