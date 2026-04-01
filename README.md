@@ -24,11 +24,14 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat" />
   <img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-1CE783?logo=newrelic&logoColor=white&style=flat" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat" />
+  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat" />
+  <img alt="SST" src="https://img.shields.io/badge/SST-E27152?logo=sst&logoColor=white&style=flat" />
+  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" />
 </p>
 
-**AWS depth:** Lambda, Step Functions, EventBridge, DynamoDB (single-table), SQS, API Gateway, Cognito, S3, CloudFront, Aurora PostgreSQL, ECS/Fargate, CDK, CloudFormation
+**AWS depth:** Lambda, Step Functions, EventBridge, DynamoDB (single-table), SQS, API Gateway, Cognito, S3, CloudFront, Aurora PostgreSQL, ECS/Fargate, CDK, SST, CloudFormation, Serverless Framework
 
 ---
 
