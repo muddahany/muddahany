@@ -2,7 +2,7 @@
 
 **Backend & Cloud Engineer** · 8+ years building production systems on AWS
 
-Claude Code is my primary development tool. Shipped a full SaaS product in two weeks with it.
+Claude Code is my primary development tool. Shipped CostPatrol (SaaS) in two weeks and Boody (AI coach) in three days with it.
 
 Most recent: 100+ developer codebase at one of the UK's largest ticketing platforms. 80+ venues, billions of events/year, 4 AWS regions. Built services from scratch, owned on-call, designed the observability stack.
 
@@ -27,6 +27,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
   <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat" />
   <img alt="SST" src="https://img.shields.io/badge/SST-E27152?style=flat&logoColor=white" />
   <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-FF9900?logo=awslambda&logoColor=white&style=flat" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" />
 </p>
@@ -37,6 +38,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 
 ### What I'm Building
 
+- **[Boody](https://boody.ai)** — AI nutrition & fitness coach on WhatsApp/Telegram. Self-hosted Gemma 4 26B, food photo analysis, 4-layer memory system, MENA food database. Live with real users in 3 days.
 - **[CostPatrol](https://costpatrol.io)** — AWS cost optimization SaaS. 100+ detection rules across 30 AWS services. Built in two weeks with Claude Code.
 - **[MSCLOUDTECH](https://mscloudtech.io)** — My consultancy (Estonia OÜ). Backend architecture, serverless systems, AI integration.
 
@@ -52,6 +54,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 | **Zero-downtime DB upgrades** | Aurora PostgreSQL engine upgrades in production |
 | **2,500+ lines NRQL** | Observability-as-code dashboards (Pulumi + New Relic) |
 | **80% support automated** | RAG pipeline: Bedrock, FAISS, LangChain |
+| **3-day product launch** | Boody: concept to live AI coach with real users |
 | **45 min → <5 min deploys** | CI/CD across 40+ brands, 4 AWS regions |
 
 ---
