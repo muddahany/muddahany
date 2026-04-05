@@ -28,6 +28,9 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
   <img alt="SST" src="https://img.shields.io/badge/SST-E27152?style=flat&logoColor=white" />
   <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-FF9900?logo=awslambda&logoColor=white&style=flat" />
   <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
+  <img alt="LanceDB" src="https://img.shields.io/badge/LanceDB-5C2D91?style=flat&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" />
 </p>
