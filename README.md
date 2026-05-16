@@ -4,7 +4,7 @@
 
 Claude Code is my primary development tool. Shipped four production-grade products solo with it in the last 12 months: CostPatrol (123-rule AWS cost SaaS), VowTrust (institutional deal verification platform), Boody (AI nutrition coach), and a quant trading analytics engine.
 
-Most recent: 100+ developer codebase at one of the UK's largest ticketing platforms. 80+ venues, billions of events/year, 4 AWS regions. Built services from scratch, owned on-call, designed the observability stack.
+Most recent: 100+ developer codebase at one of the UK's largest ticketing platforms. 80+ venues, billions of events/year, 4 AWS regions. Built services from scratch, designed the observability stack, and own out-of-hours on-call. Production bugs I caught and fixed via live monitoring have recovered millions of dollars in previously missed revenue.
 
 ---
 
@@ -62,6 +62,8 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 | **3-day product launch** | Boody: concept to live AI coach with real users |
 | **45 min → <5 min deploys** | CI/CD across 40+ brands, 4 AWS regions |
 | **AI Overview citation** | mscloudtech.io cited by Google Gemini for "scalable microservices backends", ranking pos 2.0 with 2,635 weekly impressions |
+| **Millions USD revenue recovered** | Production bug fixes on a top UK ticketing platform via on-call monitoring and live debugging, closing silent revenue leaks |
+| **24/7 production ownership** | Out-of-hours on-call plus in-hours keeping the lights on for a flash-sale platform doing tens of thousands of req/min |
 
 ---
 
