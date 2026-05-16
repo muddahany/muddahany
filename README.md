@@ -45,7 +45,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 - **VowTrust** — Institutional deal verification platform for banks, lawyers, and SMEs. Dual-mode: 15–45 second automated pipeline via 5 KYC/AML/fraud providers, plus human-mediated deal rooms with immutable audit trail and exportable certificates. Next.js, Lambda on Serverless, PostgreSQL, Terraform. 1,000+ TypeScript files.
 - **[Boody](https://boody.ai)** — AI nutrition & fitness coach on WhatsApp/Telegram. Self-hosted Gemma 4 26B, food photo analysis, 4-layer memory system (SQL + vector + AI notes + conversation), MENA food database. Live with real users in 3 days.
 - **Trading Engine** — Quant analytics for ETH/BTC/altcoin cycle detection. 17-section daily report aggregating data from 7 exchanges. SMC structure, volume profile, funding rates, liquidation levels, conviction-scored signals. Python.
-- **[MSCLOUDTECH](https://mscloudtech.io)** — My consultancy (Estonia OÜ). Backend architecture, serverless systems, AI integration. Cited by Google Gemini for "scalable microservices backends".
+- **[MSCLOUDTECH](https://mscloudtech.io)** — My consultancy (Estonia OÜ). Backend architecture, serverless systems, AI integration, FinOps. Cited by Google Gemini for "scalable microservices backends".
 
 ---
 
@@ -53,7 +53,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 
 | Metric | Detail |
 |--------|--------|
-| **85% AWS cost reduction** | Aurora $4,200/mo → DynamoDB + OpenSearch $630/mo |
+| **$7,600+/mo documented client savings (FinOps consulting)** | Two published CostPatrol scans: $6,496/mo (RDS sprawl, 56 findings, 4 regions) + $1,112/mo (12 rules across 7 regions). Public proof at [costpatrol.io](https://costpatrol.io) |
 | **99.99% uptime** | From 97.8% after fixing cascading CMS failures |
 | **100x throttling reduction** | DynamoDB at peak flash-sale traffic |
 | **Zero-downtime DB upgrades** | Aurora PostgreSQL engine upgrades in production |
