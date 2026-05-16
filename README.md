@@ -64,6 +64,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 | **AI Overview citation** | mscloudtech.io cited by Google Gemini for "scalable microservices backends", ranking pos 2.0 with 2,635 weekly impressions |
 | **Millions USD revenue recovered** | Production bug fixes on a top UK ticketing platform via on-call monitoring and live debugging, closing silent revenue leaks |
 | **24/7 production ownership** | Out-of-hours on-call plus in-hours keeping the lights on for a flash-sale platform doing tens of thousands of req/min |
+| **<50ms search across 100K+ events** | Discovery and catalogue API with multi-attribute filtering over 100,000+ live performances on a top UK ticketing platform |
 
 ---
 
