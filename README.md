@@ -53,7 +53,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 
 | Metric | Detail |
 |--------|--------|
-| **$7,600+/mo documented client savings (FinOps consulting)** | Two published CostPatrol scans: $6,496/mo (RDS sprawl, 56 findings, 4 regions) + $1,112/mo (12 rules across 7 regions). Public proof at [costpatrol.io](https://costpatrol.io) |
+| **$7,600+/mo documented client savings (FinOps consulting)** | Two published CostPatrol scans: $6,496/mo (RDS sprawl, 56 findings, 4 regions) + $1,112/mo (35 resources flagged across 7 regions). Public proof at [costpatrol.io](https://costpatrol.io) |
 | **99.99% uptime** | From 97.8% after fixing cascading CMS failures |
 | **100x throttling reduction** | DynamoDB at peak flash-sale traffic |
 | **Zero-downtime DB upgrades** | Aurora PostgreSQL engine upgrades in production |
