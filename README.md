@@ -4,7 +4,7 @@
 
 Claude Code is my primary development tool. Shipped four production-grade products solo with it in the last 12 months: CostPatrol (123-rule AWS cost SaaS), VowTrust (institutional deal verification platform), Boody (AI nutrition coach), and a quant trading analytics engine.
 
-Most recent: 100+ developer codebase at one of the UK's largest ticketing platforms. 80+ venues, billions of events/year, 4 AWS regions. Built services from scratch, designed the observability stack, and own out-of-hours on-call. Production bugs I caught and fixed via live monitoring have recovered millions of dollars in previously missed revenue.
+Currently consulting on AWS infrastructure, observability, and FinOps for an enterprise client via MSCloudtech OÜ (Estonia).
 
 ---
 
@@ -41,7 +41,7 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 
 ### What I'm Building
 
-- **[CostPatrol](https://costpatrol.io)** — AWS cost optimization and anomaly detection SaaS. 123 detection rules across 30 AWS services, Slack-first alerting, Stripe billing, cross-account STS scanning. Built in two weeks with Claude Code.
+- **[CostPatrol](https://costpatrol.io)** — AWS cost optimisation and anomaly detection SaaS. 123 detection rules across 30 AWS services, Slack-first alerting, Stripe billing, cross-account STS scanning. Built in two weeks with Claude Code.
 - **VowTrust** — Institutional deal verification platform for banks, lawyers, and SMEs. Dual-mode: 15–45 second automated pipeline via 5 KYC/AML/fraud providers, plus human-mediated deal rooms with immutable audit trail and exportable certificates. Next.js, Lambda on Serverless, PostgreSQL, Terraform. 1,000+ TypeScript files.
 - **[Boody](https://boody.ai)** — AI nutrition & fitness coach on WhatsApp/Telegram. Self-hosted Gemma 4 26B, food photo analysis, 4-layer memory system (SQL + vector + AI notes + conversation), MENA food database. Live with real users in 3 days.
 - **Trading Engine** — Quant analytics for ETH/BTC/altcoin cycle detection. 17-section daily report aggregating data from 7 exchanges. SMC structure, volume profile, funding rates, liquidation levels, conviction-scored signals. Python.
@@ -53,18 +53,17 @@ Most recent: 100+ developer codebase at one of the UK's largest ticketing platfo
 
 | Metric | Detail |
 |--------|--------|
-| **$7,600+/mo documented client savings (FinOps consulting)** | Two published CostPatrol scans: $6,496/mo (RDS sprawl, 56 findings, 4 regions) + $1,112/mo (35 resources flagged across 7 regions). Public proof at [costpatrol.io](https://costpatrol.io) |
-| **99.99% uptime** | From 97.8% after fixing cascading CMS failures |
-| **100x throttling reduction** | DynamoDB at peak flash-sale traffic |
+| **$7,600+/mo example client savings (FinOps consulting)** | Two anonymised CostPatrol audit examples: $6,496/mo (RDS sprawl, 56 findings, 4 regions) + $1,112/mo (35 resources flagged across 7 regions). Examples at [costpatrol.io](https://costpatrol.io) |
+| **99.99% uptime** | From 97.8% via observability and resilience work |
+| **100x throttling reduction** | DynamoDB optimisation under peak production load |
 | **Zero-downtime DB upgrades** | Aurora PostgreSQL engine upgrades in production |
 | **2,500+ lines NRQL** | Observability-as-code dashboards (Pulumi + New Relic) |
 | **80% support automated** | RAG pipeline: Bedrock, FAISS, LangChain |
 | **3-day product launch** | Boody: concept to live AI coach with real users |
-| **45 min → <5 min deploys** | CI/CD across 40+ brands, 4 AWS regions |
+| **45 min → <5 min deploys** | CI/CD rebuild across multiple AWS regions |
 | **AI Overview citation** | mscloudtech.io cited by Google Gemini for "scalable microservices backends", ranking pos 2.0 with 2,635 weekly impressions |
-| **Millions USD revenue recovered** | Production bug fixes on a top UK ticketing platform via on-call monitoring and live debugging, closing silent revenue leaks |
-| **24/7 production ownership** | Out-of-hours on-call plus in-hours keeping the lights on for a flash-sale platform doing tens of thousands of req/min |
-| **<50ms search across 100K+ events** | Discovery and catalogue API with multi-attribute filtering over 100,000+ live performances on a top UK ticketing platform |
+| **24/7 production ownership** | On-call for high-throughput enterprise SaaS infrastructure |
+| **<50ms search across 100K+ documents** | Multi-attribute search API over a large catalogue |
 
 ---
 
